@@ -1,0 +1,14 @@
+
+result/
+
+build/
+
+*.Identifier
+
+*.cmake
+
+*.so
+
+Makefile
+
+CMakeFiles
